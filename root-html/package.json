@@ -1,0 +1,15 @@
+{
+  "name": "root-html",
+  "version": "1.0.0",
+  "description": "主应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve -s -l 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
